@@ -1,2 +1,2 @@
-# ageteller
-Age teller React 
+# Age Teller
+A React App to calculate age.
